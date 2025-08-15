@@ -1,0 +1,84 @@
+F:\ESOFT\TOP - UP\Application Development (AD)\Practicals\Windows Form Apps\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe.config
+F:\ESOFT\TOP - UP\Application Development (AD)\Practicals\Windows Form Apps\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe
+F:\ESOFT\TOP - UP\Application Development (AD)\Practicals\Windows Form Apps\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.pdb
+F:\ESOFT\TOP - UP\Application Development (AD)\Practicals\Windows Form Apps\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.AssemblyReference.cache
+F:\ESOFT\TOP - UP\Application Development (AD)\Practicals\Windows Form Apps\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.LoadingForm.resources
+F:\ESOFT\TOP - UP\Application Development (AD)\Practicals\Windows Form Apps\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.LoginForm.resources
+F:\ESOFT\TOP - UP\Application Development (AD)\Practicals\Windows Form Apps\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Properties.Resources.resources
+F:\ESOFT\TOP - UP\Application Development (AD)\Practicals\Windows Form Apps\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.WelcomeForm.resources
+F:\ESOFT\TOP - UP\Application Development (AD)\Practicals\Windows Form Apps\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.GenerateResource.cache
+F:\ESOFT\TOP - UP\Application Development (AD)\Practicals\Windows Form Apps\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.CoreCompileInputs.cache
+F:\ESOFT\TOP - UP\Application Development (AD)\Practicals\Windows Form Apps\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.exe
+F:\ESOFT\TOP - UP\Application Development (AD)\Practicals\Windows Form Apps\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.pdb
+F:\ESOFT\TOP - UP\Application Development (AD)\Practicals\Windows Form Apps\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.exe.config
+F:\ESOFT\TOP - UP\Application Development (AD)\Practicals\Windows Form Apps\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.RegistrationForm.resources
+E:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.AssemblyReference.cache
+E:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.exe.config
+E:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.LoadingForm.resources
+E:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.LoginForm.resources
+E:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Properties.Resources.resources
+E:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.RegistrationForm.resources
+E:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.WelcomeForm.resources
+E:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.GenerateResource.cache
+E:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.CoreCompileInputs.cache
+E:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.exe
+E:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.pdb
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.AssemblyReference.cache
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.LoadingForm.resources
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.LoginForm.resources
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Properties.Resources.resources
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.RegistrationForm.resources
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.WelcomeForm.resources
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.GenerateResource.cache
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.CoreCompileInputs.cache
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.exe
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.pdb
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Courses.resources
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Englishc.resources
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.softwareengc.resources
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.exe.config
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Accountacyc.resources
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Managementc.resources
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.AgriculForm.resources
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.DatascienceForm.resources
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.HospitalityForm.resources
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.RoboticForm.resources
+D:\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe.config
+D:\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe
+D:\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.pdb
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Forms.AdminDashboard.resources
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Forms.AddCourse.resources
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Forms.EditCourse.resources
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Forms.AssignCourse.resources
+D:\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Forms.ViewStudentCourses.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe.config
+C:\Users\My\Desktop\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.exe
+C:\Users\My\Desktop\StudentRegistrationSystem\bin\Debug\StudentRegistrationSystem.pdb
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.AssemblyReference.cache
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.exe.config
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Accountacyc.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Forms.AddCourse.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Forms.AdminDashboard.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.AgriculForm.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Forms.AssignCourse.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Courses.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.DatascienceForm.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Forms.EditCourse.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Englishc.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.HospitalityForm.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.LoadingForm.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.LoginForm.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Managementc.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Forms.ViewStudentCourses.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Properties.Resources.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.RegistrationForm.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.RoboticForm.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.softwareengc.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.WelcomeForm.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.GenerateResource.cache
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.exe
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.pdb
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Form1.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Form2.resources
+C:\Users\My\Desktop\StudentRegistrationSystem\obj\Debug\StudentRegistrationSystem.Form3.resources
